@@ -1,0 +1,34 @@
+body {
+  font-family: 'Oswald', sans-serif;
+  background-color: #f8faea;
+  color: #323b3b;
+}
+
+section.slide-body {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+section.slide-title {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.slide-body h1 {
+  font-size: 12rem;
+  margin-top: 1em;
+}
+
+.slide-title h1 {
+  font-size: 5rem;
+}
+
+.slide-body p {
+  font-size: 4rem;
+}
+
+.accent {
+  color: #f55900;
+}

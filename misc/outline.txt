@@ -1,0 +1,13 @@
+Colours:
+#f8faea
+#323b3b
+#f55900
+
+Talk outline.
+
+Slides
+1 - Title
+2 - Intro
+3 - 
+4
+5
