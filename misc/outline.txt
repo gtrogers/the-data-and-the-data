@@ -3,11 +3,18 @@ Colours:
 #323b3b
 #f55900
 
-Talk outline.
+Sections:
+- intro - 10 mins
+- design - it's all about the message - 15 mins
+- code - example(s) using d3.js - 20 mins
+- caution - 10 mins
 
 Slides
+- Intro
 1 - Title
-2 - Intro
-3 - 
-4
-5
+2 - Intro to talk - data has two froms etc. etc.
+3 - Intro to data vis. news papers like it, it's kinda cool etc. etc.
+4 - Impact of design on the message / data. -- ?
+5 - What I'm going to talk about:
+
+6 - Basics of graphs...
